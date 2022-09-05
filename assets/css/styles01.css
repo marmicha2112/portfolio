@@ -1,0 +1,25 @@
+.outterImageswrapper{
+    background-color: rgb(139, 139, 58); 
+    max-width: 980px;
+    margin: 0 auto;
+}
+.outterImageswrapper .internalwrapper {
+    max-width: 900px;
+    background-color: rgb(4, 4, 36);
+    margin: 0 auto; 
+    color: silver
+}
+.outterImageswrapper .internalwrapper img{
+    max-width: 20%;
+    padding: 8px 8px;
+    
+}
+.internalwrapper .theImages{
+    max-width: 800px;
+    background-color: rgb(206, 206, 129); 
+    margin: 0 auto;
+}
+.internalwrapper{
+    text-align: center;
+}
+
