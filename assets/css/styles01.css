@@ -1,13 +1,13 @@
 .outterImageswrapper{
-    background-color: rgb(139, 139, 58); 
+    background-color:rgba(255, 255, 255, 0.075);
     max-width: 980px;
     margin: 0 auto;
 }
 .outterImageswrapper .internalwrapper {
     max-width: 900px;
-    background-color: rgb(4, 4, 36);
+    background-color: #1b1f22;
     margin: 0 auto; 
-    color: silver
+    color: rgb(235, 227, 227)
 }
 .outterImageswrapper .internalwrapper img{
     max-width: 20%;
@@ -16,10 +16,11 @@
 }
 .internalwrapper .theImages{
     max-width: 800px;
-    background-color: rgb(206, 206, 129); 
+    background-color: rgb(3, 3, 3); 
     margin: 0 auto;
 }
 .internalwrapper{
     text-align: center;
+ 
 }
 
